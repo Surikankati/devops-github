@@ -1,3 +1,8 @@
 this is my new sample text file
 
+
 this an edit to check the diff command
+
+chanaging this file to check git diff --staged comman
+
+this is the file from master branch
