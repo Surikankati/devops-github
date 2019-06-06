@@ -1,3 +1,0 @@
-this is sample2 from feature1 branch.
-
-this is an edit for feature to check merge conflict
